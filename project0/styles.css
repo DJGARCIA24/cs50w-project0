@@ -1,0 +1,13 @@
+body {
+    margin:0em;
+}
+
+.cover {
+    height:400px;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/131/114/520/bladerunner-blade-runner-blade-runner-2049-hd-wallpaper-thumb.jpg);
+    color:white;
+    background-size: cover;
+    background-position: center;
+    background-color:rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+}
