@@ -1,6 +1,6 @@
 body {
     margin:0em;
-    color:rgb(255, 255, 255);
+    color:rgb(28, 156, 220);
 }
 
 .cover {
@@ -11,8 +11,8 @@ body {
 }
 
 .imagen2 {
-    height:400px;
-    background-image: url(https://www.cinesargentinos.com.ar/static/archivos/67074);
+    height: 400px;
+    background-image: url(https://imagenes.elpais.com/resizer/1mGLSXBCpxtefYDg9kA5lGjZk4U=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/UFNWDAP3WFG6S6JBH6HAXBOTNU.jpg);
     background-size: cover;
     background-position: center;
 }
