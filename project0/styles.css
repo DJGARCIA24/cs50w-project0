@@ -11,5 +11,8 @@ body {
 }
 
 .imagen2 {
+    height:400px;
+    background-image: url(https://www.cinesargentinos.com.ar/static/archivos/67074);
+    background-size: cover;
     background-position: center;
 }
