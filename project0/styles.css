@@ -1,11 +1,15 @@
 body {
     margin:0em;
-    color:white;
+    color:rgb(255, 255, 255);
 }
 
 .cover {
     height:400px;
-    background-image: url(https://c4.wallpaperflare.com/wallpaper/131/114/520/bladerunner-blade-runner-blade-runner-2049-hd-wallpaper-thumb.jpg);
+    background-image: url(https://www.cinesargentinos.com.ar/static/archivos/67074);
     background-size: cover;
+    background-position: center;
+}
+
+.imagen2 {
     background-position: center;
 }
