@@ -18,6 +18,14 @@ body {
   background-position: center;
 }
 
+.imagen3 {
+  height: 400px;
+  margin-bottom: 25px;
+  background-image: url(images/portada2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
 .slider {
   width: 95%;
   margin: auto;
