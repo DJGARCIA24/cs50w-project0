@@ -43,8 +43,8 @@ body {
   display: flex;
   padding: 0;
   width: 400%;
-  -webkit-animation: cambio 30s infinite alternate linear;
-          animation: cambio 30s infinite alternate linear;
+  -webkit-animation: cambio 20s infinite alternate linear;
+          animation: cambio 20s infinite alternate linear;
 }
 .slider li {
   width: 100%;
