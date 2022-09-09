@@ -5,7 +5,7 @@ body {
 
 .cover {
   height: 400px;
-  background-image: url(https://www.cinesargentinos.com.ar/static/archivos/67074);
+  background-image: url(https://i0.wp.com/www.cinemanet.info/wp-content/uploads/2017/10/Blade-Runner-2049-Ryan-Gosling-Ana-de-Armas-4.jpg?resize=1170%2C490&ssl=1);
   background-size: cover;
   background-position: center;
 }
@@ -21,13 +21,21 @@ body {
 .imagen3 {
   height: 400px;
   margin-bottom: 25px;
-  background-image: url(images/portada2.jpg);
+  background-image: url(https://thefilmstage.com/wp-content/uploads/2016/04/Stalker.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.imagen4 {
+  height: 400px;
+  margin-bottom: 25px;
+  background-image: url(https://reelfilm.com/wp-content/uploads/2019/06/davidlynch.jpg);
   background-size: cover;
   background-position: center;
 }
 
 .slider {
-  width: 95%;
+  width: 100%;
   margin: auto;
   overflow: hidden;
 }
@@ -35,8 +43,8 @@ body {
   display: flex;
   padding: 0;
   width: 400%;
-  -webkit-animation: cambio 20s infinite alternate linear;
-          animation: cambio 20s infinite alternate linear;
+  -webkit-animation: cambio 30s infinite alternate linear;
+          animation: cambio 30s infinite alternate linear;
 }
 .slider li {
   width: 100%;
